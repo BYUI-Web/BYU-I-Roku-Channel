@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<opml version="1.0">
+	<body
+		backgroundColor="#444444"
+		leftBreadcrumbColor="#00EE00"
+		rightBreadcrumbColor="#0000EE"
+		posterScreenTitleColor="#EEEE00"
+		posterScreenSubtitleColor="#00EE00"
+		posterScreenSynopsisColor="#EEEEEE"
+		springboardScreenTitleColor="#00EE00"
+		springboardScreenSynopsisColor="#EEEEEE"
+		springboardScreenActorColor="#EEEE00"
+		springboardScreenDirectorColor="#EEEE00"
+		springboardScreenDateColor="#EEEE00">
+
+		<outline title="BYU-Idaho About Us" subtitle="About the university and programs." img="http://www.byui.edu/Images/Roku/about.jpg"> 
+			<outline title="Webcasts" url="http://www.kaltura.com/api_v3/getFeed.php?feedId=0_7u9azd9t" />
+			<outline title="Webcasts" url="http://www.kaltura.com/api_v3/getFeed.php?feedId=0_9gsjkqwt" />
+		</outline>
+		<outline title="BYU-Idaho Devotionals" subtitle="Devotionals given at BYU-Idaho." img="http://www.byui.edu/Images/Roku/devo.jpg">
+			<outline title="2013" url="http://www.kaltura.com/api_v3/getFeed.php?feedId=0_whdh24ou" />
+			<outline title="2012" url="http://www.kaltura.com/api_v3/getFeed.php?feedId=0_xul6hx7m" /> 
+		</outline>
+	</body>
+</opml>

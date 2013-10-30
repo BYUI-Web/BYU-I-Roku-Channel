@@ -1,0 +1,9 @@
+title=BYU-Idaho Roku Channel
+subtitle=All of the content from BYU-Idaho
+mm_icon_focus_hd=pkg:/images/336_210.png
+mm_icon_side_hd=pkg:/images/108_69.png
+mm_icon_focus_sd=pkg:/images/248_140.png
+mm_icon_side_sd=pkg:/images/80_46.png
+major_version=1
+minor_version=0
+build_version=101105

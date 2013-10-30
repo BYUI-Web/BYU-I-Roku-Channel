@@ -44,6 +44,11 @@ function NWM_MRSS_GetEpisodes(limit = 0)
 				contentType:	"episode"
 			}
 			
+' streamformat
+if item.GetNamedElements("streamformat").Count() > 0
+tmp = item.GetNamedElements("streamformat")
+newItem.streamformat = ValidStr(tmp[0].GetText())
+end if
 			' title
 			tmp = item.GetNamedElements("media:title")
 			if tmp.Count() > 0
@@ -161,3 +166,4 @@ function NWM_MRSS_GetEpisodes(limit = 0)
 	
 	return result
 end function
+

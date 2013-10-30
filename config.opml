@@ -12,7 +12,7 @@
 		springboardScreenActorColor="#EEEE00"
 		springboardScreenDirectorColor="#EEEE00"
 		springboardScreenDateColor="#EEEE00">
-
+		<outline title="BYU-Idaho Live" subtitle="Live Feeds" url="http://joshcrowther.com/feed/xml/themind.xml" /> 
 		<outline title="BYU-Idaho About Us" subtitle="About the university and programs." img="http://www.byui.edu/Images/Roku/about.jpg"> 
 			<outline title="Webcasts" url="http://www.kaltura.com/api_v3/getFeed.php?feedId=0_7u9azd9t" />
 			<outline title="Webcasts" url="http://www.kaltura.com/api_v3/getFeed.php?feedId=0_9gsjkqwt" />

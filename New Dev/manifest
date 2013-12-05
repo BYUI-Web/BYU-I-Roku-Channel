@@ -4,11 +4,9 @@ mm_icon_focus_hd=pkg:/images/hd.jpg
 mm_icon_side_hd=pkg:/images/hd.jpg
 mm_icon_focus_sd=pkg:/images/sd.jpg
 mm_icon_side_sd=pkg:/images/sd.jpg
-
-splash_screen_hd=pkg:/images/hd.jpg
-splash_screen_sd=pkg:/images/sd.jpg
-splash_color=#231f20
-
+splash_screen_hd=pkg:/images/splash.jpg
+splash_screen_sd=pkg:/images/splash.jpg
+splash_min_time=3000
 major_version=1
 minor_version=0
-build_version=1
+build_version=101105

@@ -1,7 +1,6 @@
 function ShowSpringboardScreen(episodes, selectedEpisode, leftBread, rightBread)
 	screen = CreateObject("roSpringboardScreen")
 	screen.SetMessagePort(CreateObject("roMessagePort"))
-  screen.SetBreadcrumbText(leftBread, rightBread)
   screen.SetStaticRatingEnabled(false)
 	screen.AddButton(1, "Play")
 	screen.Show()

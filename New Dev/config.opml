@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<opml version="1.0">
+	<body
+		backgroundColor="#343434"
+		posterScreenTitleColor="#ffffff"
+		posterScreenSubtitleColor="#ffffff"
+		posterScreenSynopsisColor="#ffffff"
+		springboardScreenTitleColor="#00EE00"
+		springboardScreenSynopsisColor="#EEEEEE"
+		springboardScreenActorColor="#EEEE00"
+		springboardScreenDirectorColor="#EEEE00"
+		springboardScreenDateColor="#EEEE00">
+		<outline title="Featured Videos" subtitle="Featured Videos Subtitle Text" url="#" img="pkg:/images/featuredvid.png"/> 
+		<outline title="Pathway" subtitle="Pathway Subtitle Text" url="#" img="pkg:/images/pathway.png"/>
+		<outline title="Devotional Archive" subtitle="Watch the archived devotionals right here on Roku." img="pkg:/images/devotional.png">
+			<outline title="2013" url="http://www.kaltura.com/api_v3/getFeed.php?feedId=0_whdh24ou" />
+			<outline title="2012" url="http://www.kaltura.com/api_v3/getFeed.php?feedId=0_xul6hx7m" /> 
+		</outline>
+		<outline title="Live Broadcast" subtitle="Live Broadcast Subtitle Text" url="http://byuidahoradio.org/feed/live.xml" img="pkg:/images/live.png"/> 
+		<outline title="BYU-Idaho Alumni" subtitle="BYU-Idaho Alumni Subtitle Text" img="pkg:/images/alumni.png"> 
+			<outline title="Webcasts" url="http://www.kaltura.com/api_v3/getFeed.php?feedId=0_7u9azd9t" />
+			<outline title="Webcasts" url="http://www.kaltura.com/api_v3/getFeed.php?feedId=0_9gsjkqwt" />
+		</outline>
+		
+	</body>
+</opml>

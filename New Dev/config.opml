@@ -14,13 +14,24 @@
 		<outline title="Pathway" subtitle="Pathway Subtitle Text" url="#" img="pkg:/images/pathway.png"/>
 		<outline title="Devotional Archive" subtitle="Watch the archived devotionals right here on Roku." img="pkg:/images/devotional.png">
 			<outline title="2013" url="http://www.kaltura.com/api_v3/getFeed.php?feedId=0_whdh24ou" />
-			<outline title="2012" url="http://www.kaltura.com/api_v3/getFeed.php?feedId=0_xul6hx7m" /> 
+			<outline title="2012" url="http://www.kaltura.com/api_v3/getFeed.php?feedId=0_xul6hx7m" />
+			<outline title="2011" url="http://www.kaltura.com/api_v3/getFeed.php?feedId=0_mj0tb2mf" /> 
+			<outline title="2010" url="http://www.kaltura.com/api_v3/getFeed.php?feedId=0_lnvi9exg" /> 
+			<outline title="2009" url="http://www.kaltura.com/api_v3/getFeed.php?feedId=0_wqvw11u8" /> 
+			<outline title="2008" url="http://www.kaltura.com/api_v3/getFeed.php?feedId=0_ubejqi42" /> 
+			<outline title="2007" url="http://www.kaltura.com/api_v3/getFeed.php?feedId=0_f3tz93e6" /> 
+			<outline title="2006" url="http://www.kaltura.com/api_v3/getFeed.php?feedId=0_pqbtygwz" /> 
+			<outline title="2005" url="http://www.kaltura.com/api_v3/getFeed.php?feedId=0_0q6wtp9b" /> 
+			<outline title="2004" url="http://www.kaltura.com/api_v3/getFeed.php?feedId=0_z1uk1epv" /> 
+			<outline title="2003" url="http://www.kaltura.com/api_v3/getFeed.php?feedId=0_kz5zjsx7" /> 
+			<outline title="2002" url="http://www.kaltura.com/api_v3/getFeed.php?feedId=0_brg4sxww" /> 
+			<outline title="2001" url="http://www.kaltura.com/api_v3/getFeed.php?feedId=0_qjdlhqq2" /> 
+			<outline title="2000" url="http://www.kaltura.com/api_v3/getFeed.php?feedId=0_9qaxxnov" /> 
+			<outline title="1999" url="http://www.kaltura.com/api_v3/getFeed.php?feedId=0_rj2c0bnz" /> 
+			<outline title="1998" url="http://www.kaltura.com/api_v3/getFeed.php?feedId=0_bpo850yv" /> 
+			<outline title="1997" url="http://www.kaltura.com/api_v3/getFeed.php?feedId=0_dg97mlbw" /> 
 		</outline>
-		<outline title="Live Broadcast" subtitle="Live Broadcast Subtitle Text" url="http://byuidahoradio.org/feed/live.xml" img="pkg:/images/live.png"/> 
-		<outline title="BYU-Idaho Alumni" subtitle="BYU-Idaho Alumni Subtitle Text" img="pkg:/images/alumni.png"> 
-			<outline title="Webcasts" url="http://www.kaltura.com/api_v3/getFeed.php?feedId=0_7u9azd9t" />
-			<outline title="Webcasts" url="http://www.kaltura.com/api_v3/getFeed.php?feedId=0_9gsjkqwt" />
-		</outline>
-		
+		<outline title="Live Broadcast" subtitle="Live Broadcast Subtitle Text" url="http://byuidahoradio.org/feed/live.xml" img="pkg:/images/live.png" />
+		<outline title="BYU-Idaho Alumni" subtitle="BYU-Idaho Alumni Subtitle Text" img="pkg:/images/alumni.png" />
 	</body>
 </opml>

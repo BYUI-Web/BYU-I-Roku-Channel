@@ -1,7 +1,7 @@
 sub ShowEpisodeScreen(show, leftBread, rightBread)
 	screen = CreateObject("roPosterScreen")
 	screen.SetMessagePort(CreateObject("roMessagePort"))
-  screen.SetListStyle("flat-episodic")
+  screen.SetListStyle("flat-category")
 	screen.Show()
 	
 	mrss = NWM_MRSS(show.url)

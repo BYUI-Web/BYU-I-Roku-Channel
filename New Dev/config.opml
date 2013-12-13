@@ -13,23 +13,23 @@
 		<outline title="Featured Videos" subtitle="Featured Videos Subtitle Text" url="#" img="pkg:/images/featuredvid.png"/> 
 		<outline title="Pathway" subtitle="Pathway Subtitle Text" url="#" img="pkg:/images/pathway.png"/>
 		<outline title="Devotional Archive" subtitle="Watch the archived devotionals right here on Roku." img="pkg:/images/devotional.png">
-			<outline title="2013" url="http://www.kaltura.com/api_v3/getFeed.php?feedId=0_whdh24ou" img="pkg:/images/2013.png"/>
-			<outline title="2012" url="http://www.kaltura.com/api_v3/getFeed.php?feedId=0_xul6hx7m" img="pkg:/images/2012.png"/>
-			<outline title="2011" url="http://www.kaltura.com/api_v3/getFeed.php?feedId=0_mj0tb2mf" img="pkg:/images/2011.png"/> 
-			<outline title="2010" url="http://www.kaltura.com/api_v3/getFeed.php?feedId=0_lnvi9exg" img="pkg:/images/2010.png"/> 
-			<outline title="2009" url="http://www.kaltura.com/api_v3/getFeed.php?feedId=0_wqvw11u8" img="pkg:/images/2009.png"/> 
-			<outline title="2008" url="http://www.kaltura.com/api_v3/getFeed.php?feedId=0_ubejqi42" img="pkg:/images/2008.png"/> 
-			<outline title="2007" url="http://www.kaltura.com/api_v3/getFeed.php?feedId=0_f3tz93e6" img="pkg:/images/2007.png"/> 
-			<outline title="2006" url="http://www.kaltura.com/api_v3/getFeed.php?feedId=0_pqbtygwz" img="pkg:/images/2006.png"/> 
-			<outline title="2005" url="http://www.kaltura.com/api_v3/getFeed.php?feedId=0_0q6wtp9b" img="pkg:/images/2005.png"/> 
-			<outline title="2004" url="http://www.kaltura.com/api_v3/getFeed.php?feedId=0_z1uk1epv" img="pkg:/images/2004.png"/> 
-			<outline title="2003" url="http://www.kaltura.com/api_v3/getFeed.php?feedId=0_kz5zjsx7" img="pkg:/images/2003.png"/> 
-			<outline title="2002" url="http://www.kaltura.com/api_v3/getFeed.php?feedId=0_brg4sxww" img="pkg:/images/2002.png"/> 
-			<outline title="2001" url="http://www.kaltura.com/api_v3/getFeed.php?feedId=0_qjdlhqq2" img="pkg:/images/2001.png"/> 
-			<outline title="2000" url="http://www.kaltura.com/api_v3/getFeed.php?feedId=0_9qaxxnov" img="pkg:/images/2000.png"/> 
-			<outline title="1999" url="http://www.kaltura.com/api_v3/getFeed.php?feedId=0_rj2c0bnz" img="pkg:/images/1999.png"/> 
-			<outline title="1998" url="http://www.kaltura.com/api_v3/getFeed.php?feedId=0_bpo850yv" img="pkg:/images/1998.png"/> 
-			<outline title="1997" url="http://www.kaltura.com/api_v3/getFeed.php?feedId=0_dg97mlbw" img="pkg:/images/1997.png"/> 
+			<outline title="2013" url="http://www.kaltura.com/api_v3/getFeed.php?feedId=0_whdh24ou" img="http://www.byuidahoradio.org/feed/2013.png"/>
+			<outline title="2012" url="http://www.kaltura.com/api_v3/getFeed.php?feedId=0_xul6hx7m" img="http://www.byuidahoradio.org/feed/2012.png"/>
+			<outline title="2011" url="http://www.kaltura.com/api_v3/getFeed.php?feedId=0_mj0tb2mf" img="http://www.byuidahoradio.org/feed/2011.png"/> 
+			<outline title="2010" url="http://www.kaltura.com/api_v3/getFeed.php?feedId=0_lnvi9exg" img="http://www.byuidahoradio.org/feed/2010.png"/> 
+			<outline title="2009" url="http://www.kaltura.com/api_v3/getFeed.php?feedId=0_wqvw11u8" img="http://www.byuidahoradio.org/feed/2009.png"/> 
+			<outline title="2008" url="http://www.kaltura.com/api_v3/getFeed.php?feedId=0_ubejqi42" img="http://www.byuidahoradio.org/feed/2008.png"/> 
+			<outline title="2007" url="http://www.kaltura.com/api_v3/getFeed.php?feedId=0_f3tz93e6" img="http://www.byuidahoradio.org/feed/2007.png"/> 
+			<outline title="2006" url="http://www.kaltura.com/api_v3/getFeed.php?feedId=0_pqbtygwz" img="http://www.byuidahoradio.org/feed/2006.png"/> 
+			<outline title="2005" url="http://www.kaltura.com/api_v3/getFeed.php?feedId=0_0q6wtp9b" img="http://www.byuidahoradio.org/feed/2005.png"/> 
+			<outline title="2004" url="http://www.kaltura.com/api_v3/getFeed.php?feedId=0_z1uk1epv" img="http://www.byuidahoradio.org/feed/2004.png"/> 
+			<outline title="2003" url="http://www.kaltura.com/api_v3/getFeed.php?feedId=0_kz5zjsx7" img="http://www.byuidahoradio.org/feed/2003.png"/> 
+			<outline title="2002" url="http://www.kaltura.com/api_v3/getFeed.php?feedId=0_brg4sxww" img="http://www.byuidahoradio.org/feed/2002.png"/> 
+			<outline title="2001" url="http://www.kaltura.com/api_v3/getFeed.php?feedId=0_qjdlhqq2" img="http://www.byuidahoradio.org/feed/2001.png"/> 
+			<outline title="2000" url="http://www.kaltura.com/api_v3/getFeed.php?feedId=0_9qaxxnov" img="http://www.byuidahoradio.org/feed/2000.png"/> 
+			<outline title="1999" url="http://www.kaltura.com/api_v3/getFeed.php?feedId=0_rj2c0bnz" img="http://www.byuidahoradio.org/feed/1999.png"/> 
+			<outline title="1998" url="http://www.kaltura.com/api_v3/getFeed.php?feedId=0_bpo850yv" img="http://www.byuidahoradio.org/feed/1998.png"/> 
+			<outline title="1997" url="http://www.kaltura.com/api_v3/getFeed.php?feedId=0_dg97mlbw" img="http://www.byuidahoradio.org/feed/1997.png"/> 
 		</outline>
 		<outline title="Live Broadcast" subtitle="Live Broadcast Subtitle Text" url="http://byuidahoradio.org/feed/live.xml" img="pkg:/images/live.png" />
 		<outline title="BYU-Idaho Alumni" subtitle="BYU-Idaho Alumni Subtitle Text" img="pkg:/images/alumni.png" />

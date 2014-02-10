@@ -2,6 +2,7 @@ sub ShowEpisodeScreen(show, leftBread, rightBread)
 	screen = CreateObject("roPosterScreen")
 	screen.SetMessagePort(CreateObject("roMessagePort"))
   screen.SetListStyle("flat-category")
+  screen.SetBreadcrumbText("", "Dev Channel")
 	screen.Show()
 	
 	mrss = NWM_MRSS(show.url)

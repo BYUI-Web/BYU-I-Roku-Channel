@@ -2,6 +2,7 @@ sub ShowPosterScreen(contentList, breadLeft, breadRight)
 	screen = CreateObject("roPosterScreen")
 	screen.SetMessagePort(CreateObject("roMessagePort"))
   screen.SetListStyle("flat-category")
+  screen.SetBreadcrumbText("", "Dev Channel")
 	screen.Show()
 	
 	screen.SetContentList(contentList)

@@ -10,8 +10,8 @@
 		springboardScreenActorColor="#EEEE00"
 		springboardScreenDirectorColor="#EEEE00"
 		springboardScreenDateColor="#EEEE00">
-		<outline title="Featured Videos" subtitle="Featured Videos Subtitle Text" url="#" img="pkg:/images/featuredvid.png"/> 
-		<outline title="Pathway" subtitle="Pathway Subtitle Text" url="#" img="pkg:/images/pathway.png"/>
+		<outline title="Featured Videos" subtitle="Featured Videos Subtitle Text" url="http://www.kaltura.com/api_v3/getFeed.php?feedId=0_6uu1rc46" img="pkg:/images/featuredvid.png"/> 
+		<outline title="Pathway" subtitle="Pathway Subtitle Text" url="http://www.kaltura.com/api_v3/getFeed.php?feedId=0_6uu1rc46" img="pkg:/images/pathway.png"/>
 		<outline title="Devotional Archive" subtitle="Watch the archived devotionals right here on Roku." img="pkg:/images/devotional.png">
 			<outline title="2013" url="http://www.kaltura.com/api_v3/getFeed.php?feedId=0_whdh24ou" img="http://www.byuidahoradio.org/feed/2013.png"/>
 			<outline title="2012" url="http://www.kaltura.com/api_v3/getFeed.php?feedId=0_xul6hx7m" img="http://www.byuidahoradio.org/feed/2012.png"/>
@@ -32,6 +32,6 @@
 			<outline title="1997" url="http://www.kaltura.com/api_v3/getFeed.php?feedId=0_dg97mlbw" img="http://www.byuidahoradio.org/feed/1997.png"/> 
 		</outline>
 		<outline title="Live Broadcast" subtitle="Live Broadcast Subtitle Text" url="http://byuidahoradio.org/feed/live.xml" img="pkg:/images/live.png" />
-		<outline title="BYU-Idaho Alumni" subtitle="BYU-Idaho Alumni Subtitle Text" img="pkg:/images/alumni.png" />
+		<outline title="BYU-Idaho Alumni" subtitle="BYU-Idaho Alumni Subtitle Text" img="pkg:/images/alumni.png" url="http://www.kaltura.com/api_v3/getFeed.php?feedId=0_6uu1rc46" />
 	</body>
 </opml>

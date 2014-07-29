@@ -21,8 +21,8 @@ function NWM_UT_GetStringFromURL(url, userAgent = "")
   ut = CreateObject("roURLTransfer")
   ut.SetPort(CreateObject("roMessagePort"))
   if userAgent <> ""
-	  ut.AddHeader("user-agent", userAgent)
-	end if
+    ut.AddHeader("user-agent", userAgent)
+  end if
   ut.SetURL(url)
 	if ut.AsyncGetToString()
 		event = wait(timeout, ut.GetPort())

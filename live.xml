@@ -10,7 +10,7 @@
 <description>Live Devotionals</description> 
 <streamformat>hls</streamformat>
 <media:content url="http://byui-lh.akamaihd.net/i/devolive_1@186146/master.m3u8"/> 
-<media:thumbnail url="http://www.byuidahoradio.org/feed/live.png" /> 
+<media:thumbnail url="http://byui-web.github.io/BYU-I-Roku-Channel/images/live.png" /> 
 </item> 
 <item> 
 <title>91.5 FM</title> 
@@ -18,7 +18,7 @@
 <description>91.5 Live Feed</description> 
 <streamformat>hls</streamformat>
 <media:content url="http://byui-lh.akamaihd.net/i/kbyr_1@186144/master.m3u8"/> 
-<media:thumbnail url="http://www.byuidahoradio.org/feed/91.png" /> 
+<media:thumbnail url="http://byui-web.github.io/BYU-I-Roku-Channel/images/91.png" /> 
 </item> 
 <item> 
 <title>94.3 FM</title> 
@@ -26,7 +26,7 @@
 <description>94.3 Live Feed</description> 
 <streamformat>hls</streamformat>
 <media:content url="http://byui-lh.akamaihd.net/i/kbyi_1@186144/master.m3u8"/> 
-<media:thumbnail url="http://www.byuidahoradio.org/feed/94.png" /> 
+<media:thumbnail url="http://byui-web.github.io/BYU-I-Roku-Channel/images/94.png" /> 
 </item> 
 <item> 
 <title>Online Radio</title> 
@@ -34,7 +34,7 @@
 <description>Online Radio Live Feed</description> 
 <streamformat>hls</streamformat>
 <media:content url="http://byui-lh.akamaihd.net/i/onlinerad_1@186144/master.m3u8"/> 
-<media:thumbnail url="http://www.byuidahoradio.org/feed/online.png" /> 
+<media:thumbnail url="http://byui-web.github.io/BYU-I-Roku-Channel/images/online.png" /> 
 </item> 
 
 </channel> 

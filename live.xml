@@ -9,7 +9,7 @@
 <category>Streaming Video</category> 
 <description>Live Devotionals</description> 
 <streamformat>hls</streamformat>
-<media:content url="http://byuihls-i.akamaihd.net/hls/live/214872/test/stream1/ios.m3u8"/> 
+<media:content url="http://byui-lh.akamaihd.net/i/devolive_1@186146/master.m3u8"/> 
 <media:thumbnail url="http://www.byuidahoradio.org/feed/live.png" /> 
 </item> 
 <item> 
